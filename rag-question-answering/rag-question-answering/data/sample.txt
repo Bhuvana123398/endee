@@ -1,2 +1,0 @@
-Endee is a lightweight vector database designed for fast semantic search.
-It supports storing embeddings and querying them efficiently.

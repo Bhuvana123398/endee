@@ -1,3 +1,0 @@
-endee
-sentence-transformers
-torch
